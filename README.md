@@ -65,13 +65,21 @@ We then create a chart of absolute positive, absolute mathematical, and absolute
 | -	|	Vulnerabilities	| k / V = RgC	|	Risks |
 
 **Total Forces** are the total of all elements, including **Infrastructure** & strategies.
+
 **Infrastructure** divided by **Opportunities** gives us our **Total Forces Given Constraints**.
+
 **Opportunities** are opportunities.
+
 1 divided by our **Total Forces** gives us our **Vulnerabilities Given Constraints**.
+
 Our **constant "_k_"** can be adjusted depending on the working averages of similar situations of the past.
+
 1 divided by our **Risks** gives us our **Opportunities Given Constraints**.
+
 **Vulnerabilities** are vulnerabilities.
+
 ***k*** divided by **Vulnerabilities** gives us our **Risks Given Constraints**.
+
 **Risks** are risks.
 
 We now separate our *absolute positive* and *absolute negative* values, ignoring **Total Forces**. 
