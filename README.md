@@ -96,9 +96,13 @@ Things to consider:
 Extremely similar to SWOT! A lot of it is actually carried over:
 
 **Strengths**: Characteristics that give a decision an advantage over others.
+
 **Vulnerabilities**: Characteristics that give a decision a disadvantage relative to others.
+
 **Opportunities**: External factors that can be exploited to the advantage of the overall decision.
+
 **Risks**: External factors that can cause trouble for the overall decision.
+
 **Infrastructure**: All environmental objects, both actual and abstract.
 
 ***Infrastructure*** can be a bit confusing, but it's essentially anything that can be a remote factor directly to the other elements. For instance, if the decision is to change the oil of your car:
